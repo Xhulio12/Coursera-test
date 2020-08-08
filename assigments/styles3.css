@@ -41,6 +41,12 @@
 		margin-right: auto;
 	}
 	/* Main Content Styles */
+	.our {
+		text-align: center;
+		margin: 5px auto 10px;
+		font-size: 300%;
+		color: maroon;
+	}
 	.menu-holder{
 		text-align: center;
 		height: 700px;
