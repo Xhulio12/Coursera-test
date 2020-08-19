@@ -1,2 +1,2 @@
 # Coursera-test
-Coursera test repository 
+Completed Course HTML CSS and JAVASCRIPT FOR WEB DEVELOPERS
